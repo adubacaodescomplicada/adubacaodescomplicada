@@ -4,4 +4,7 @@ Conta do gmail recriada em 13/06/2020:
  adubacaodescomplicada@gmail.com
  AduboDesc*2020!
 
-
+CleanDB = Heroku
+ usuario b248a48758c239
+ senha   ef4068cc
+ url 	 mysql://b248a48758c239:ef4068cc@us-cdbr-east-02.cleardb.com/heroku_c7c45a906fc2b28?reconnect=true
