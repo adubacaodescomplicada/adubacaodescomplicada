@@ -1,0 +1,42 @@
+Cadastro de usuários
+	tem que ter e-mail e whatsapp
+
+FOLHA DE RECOMENDAÇÃO TÉCNICA
+	Não mostrar no início os dados do usuário
+
+No ícone do usuário mostrar também o nome
+
+Tem que ter uma planilha de preços de insumos regionalizada onde é exibida o preço da região, com capacidade de o usuário colocar a sua planilha de preços
+
+Os adubos permitem cadastro no momento da geraçao da planilha, adubos que nao existem podem ser cadastradas n o ato, e adubos q existem podem ter seus preços e garantias modificadas
+
+
+=>  os valores alterados ficam reservados para cada usuário
+=> pra modificações de preços e de garantias ter a opção de utilização destas ou de valores padrão (média nacional).
+
+
+para apresentar a tabela de elementos exibir o nome do elemento, o preço do elemento e um botáo para visualização/edição das garantias
+=>
+
+O ESPAÇAMENTO É UM ITEM QUE DEPENDE DA CULTURA, CADA CULTURA TEM UMA TABELA DE REFERENCIA
+
+=> ABACAXI E BANANA SÁO AS UNICAS CULTURAS COM ESPAÇAMENTO DUPLO, OS DEMAIS NÃO
+
+TAMANHO DA ÁREA PLANTADA EM HECTARES
+10,0
+X	
+8,0
+É só um valor, ou seja, o tamanho em hectáres
+
+No passo 4, trocar o nome de Calcário para Corretivos de Solo
+
+na base desta tela a soma dos dois elementos não pode superar 100%, avisar e bloquear esta tentativa, tem que ser exatamente igual a 100%, inferior ou superior tem que ser barrado. fazer esta conferencia na troca da tela.
+
+
+ESCOLHER A CULTURA NO CABEÇALHO
+
+
+PASSO 1 => SENSIVEL À CULTURA
+PASSO 3 => SENSIVEL À CULTURA
+
+AS CULTURAS PODEM SER ATIVADAS E DESATIVADAS - PARA 
